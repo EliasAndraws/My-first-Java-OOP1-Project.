@@ -1,0 +1,25 @@
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [A] on Date: Tue Jan 13 19:12:03 GMT+03:00 2026
+New Enrollment: Student [Zaid Faraj] enrolled in course [برمجة متقدمة] with grade: [B+] on Date: Tue Jan 13 19:12:12 GMT+03:00 2026
+New Enrollment: Student [Omar Droos] enrolled in course [خوارزميات] with grade: [B] on Date: Tue Jan 13 19:12:22 GMT+03:00 2026
+New Enrollment: Student [Nsreen Sammour] enrolled in course [تراكيب بيانات] with grade: [A-] on Date: Tue Jan 13 19:12:33 GMT+03:00 2026
+New Enrollment: Student [Nsreen Sammour] enrolled in course [تراكيب بيانات] with grade: [] on Date: Tue Jan 13 19:12:37 GMT+03:00 2026
+Deleted Enrollment: Student [Nsreen Sammour] was removed from course [تراكيب بيانات] on Date: Tue Jan 13 19:12:42 GMT+03:00 2026
+New Enrollment: Student [Nsreen Sammour] enrolled in course [تراكيب بيانات] with grade: [A-] on Date: Tue Jan 13 19:12:56 GMT+03:00 2026
+New Enrollment: Student [Sara Droos] enrolled in course [منطق رقمي] with grade: [A] on Date: Tue Jan 13 19:13:04 GMT+03:00 2026
+New Enrollment: Student [Omar Droos] enrolled in course [برمجة متقدمة] with grade: [B+] on Date: Tue Jan 13 19:13:33 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [b] on Date: Tue Jan 13 19:13:55 GMT+03:00 2026
+Deleted Enrollment: Student [Elias Andraws] was removed from course [برمجة كائنات موجهة(1)] on Date: Tue Jan 13 19:14:18 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [A] on Date: Tue Jan 13 19:14:23 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [B] on Date: Tue Jan 13 21:26:57 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [منطق رقمي] with grade: [A] on Date: Tue Jan 13 21:27:03 GMT+03:00 2026
+Deleted Enrollment: Student [Elias Andraws] was removed from course [برمجة كائنات موجهة(1)] on Date: Tue Jan 13 21:27:26 GMT+03:00 2026
+Deleted Enrollment: Student [Elias Andraws] was removed from course [منطق رقمي] on Date: Tue Jan 13 21:27:33 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [] on Date: Tue Jan 13 21:27:47 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [] on Date: Tue Jan 13 21:28:00 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [A] on Date: Tue Jan 13 21:28:07 GMT+03:00 2026
+Deleted Enrollment: Student [Elias Andraws] was removed from course [برمجة كائنات موجهة(1)] on Date: Tue Jan 13 21:28:17 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [برمجة كائنات موجهة(1)] with grade: [] on Date: Tue Jan 13 21:28:28 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [تراكيب بيانات] with grade: [] on Date: Tue Jan 13 21:28:32 GMT+03:00 2026
+Deleted Enrollment: Student [Elias Andraws] was removed from course [تراكيب بيانات] on Date: Tue Jan 13 21:28:44 GMT+03:00 2026
+New Enrollment: Student [Zaid Faraj] enrolled in course [خوارزميات] with grade: [C+] on Date: Tue Jan 13 22:31:03 GMT+03:00 2026
+New Enrollment: Student [Elias Andraws] enrolled in course [ذكاء اصطناعي] with grade: [B] on Date: Wed Jan 14 09:38:30 GMT+03:00 2026
